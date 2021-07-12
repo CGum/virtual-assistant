@@ -1,5 +1,10 @@
 This is a virtual assistant just like Siri and Alexa. 
 
+You will need to pip install the following to then run main.py to run this project: <br>
+pip install SpeechRecognition <br>
+pip install playsound <br>
+pip install gTTS <br>
+
 Depending on the user voice command, the assistant will perform a certain task. The word/words inside of " " must be used as they are key words for the virtual assistant to perform the task you are asking for. The current iteration of the virtual assistant supports the following commands:
 
 • Ask for "current date"   
