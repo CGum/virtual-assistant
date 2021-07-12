@@ -8,8 +8,6 @@ Depending on the user voice command, the assistant will perform a certain task. 
 
 • Ask to "search" or "search for" anything <br> &nbsp;&nbsp;&nbsp;&nbsp;- "Search" - then you have to say what you want to search right after it ex. Search dogs <br> &nbsp;&nbsp;&nbsp;&nbsp;- "Search for" - as long as those two words are present in the sentence, anything said after "for" will be searched ex. Search all over the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;internet for dogs
 
-• Ask to "close browser" (Google Chrome)
-
 • Ask to "find location" <br> &nbsp;&nbsp;&nbsp;&nbsp;- a location will be found using Google Maps ex. Find location Los Angeles California
 
 • Ask the assistants what's "your name?"
