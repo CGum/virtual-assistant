@@ -14,3 +14,8 @@ Depending on the user voice command, the assistant will perform a certain task. 
 
 • Ask to "Exit" 
     - to stop the program and exit
+
+
+The user conversation and virtual assistant responses also get displayed on the terminal. The following image is an example of this.
+
+![p](https://user-images.githubusercontent.com/35476666/125235232-fea30380-e296-11eb-8a0a-f9d3ea8479f2.PNG)
