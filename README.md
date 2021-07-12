@@ -7,7 +7,6 @@ Ask for "current date"
 Ask for "current time"   
 
 Ask to "Search" or "Search for" anything 
-
     - if using "Search" then you have to say what you want to search right after it ex. Search dogs
     - if using "Search for" as long as those two words are present in the sentence, anything said after "for" will be searched ex. Search all over the internet for dogs
 
